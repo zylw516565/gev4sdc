@@ -1,4 +1,4 @@
-module github.com/Allenxuxu/gev
+module github.com/zylw516565/gev4sdc
 
 go 1.14
 
